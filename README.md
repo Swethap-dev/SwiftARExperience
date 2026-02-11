@@ -40,9 +40,3 @@ No backend. No third-party libraries. 100% native Apple frameworks.
 3. Change Bundle Identifier
 4. Select your development team
 5. Run on real device
-
----
-
-## 📌 Author
-
-Swetha – iOS Developer (5+ Years Experience)
